@@ -82,8 +82,8 @@ function thousandsCurrencyFormat($num) {
 
 <head>
     <meta charset="utf-8">
-    <title>COVID-19 Tracker - UK Data</title>
-    <meta name="description" content="Track the spread of the Coronavirus Covid-19 outbreak">
+    <title>COVID-19 Tracker</title>
+    <meta name="description" content="Track the spread of the COVID-19 outbreak">
 
     <link rel="stylesheet" href="../assets/css/tachyons.min.css">
     <link rel="stylesheet" href="../assets/css/site.css">
